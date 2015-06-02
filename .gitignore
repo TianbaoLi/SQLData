@@ -222,3 +222,5 @@ pip-log.txt
 *.set
 *.setgram
 *.gram
+SQLTest/HashList
+SQLTest/DATA.txt
